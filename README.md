@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on FrontEnd with Javascript and HTML CSS React.
 - 🌱 I’m currently learning Fullstack Web development. 
-- 📫 How to reach me: https://www.linkedin.com/in/nilosiqueira/
+
 
 <div>
   <a href="https://github.com/nilosiqueira">
