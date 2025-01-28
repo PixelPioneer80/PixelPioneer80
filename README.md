@@ -1,4 +1,4 @@
-### Hi there I'm Nilo Siqueira 👋
+### Hi, I'm Nilo Siqueira 👋
 
 - 🔭 I’m currently working on full-stack development and AI engineering.
 - 🌱 I’m currently learning blockchain development. 
